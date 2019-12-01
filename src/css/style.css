@@ -1,0 +1,36 @@
+.fonte-titulo-informacoes
+{
+    font-family: 'Be Vietnam', sans-serif;
+    color: #000000;
+}
+
+.fonte-titulo-setores
+{
+    font-family: 'Be Vietnam', sans-serif;
+    color: #000000;
+}
+
+.fonte-texto-informacoes
+{
+    font-family: 'Montserrat', sans-serif;
+    color: #585858;
+}
+
+.fonte-texto-lista
+{
+    font-family: 'Cabin', sans-serif;
+    font-size: 20px;
+}
+
+.cofiguracao-titulo-rodape
+{
+    font-size: 15px;
+    font-family: 'Be Vietnam', sans-serif;
+}
+
+.cofiguracao-texto-rodape
+{
+    font-size: 10px;
+    font-family: 'Be Vietnam', sans-serif;
+}
+
